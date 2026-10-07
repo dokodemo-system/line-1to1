@@ -7,5 +7,5 @@
  */
 window.APP_CONFIG = {
   LIFF_ID: '2011907772-7JYkqQ63',
-  GAS_URL: ''
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbxjsWbZfAJ8P1EKvLhSYBlbYa-aiM5k9zt7WPcOoEuIVeAKIGVxKiFZEfCTjTFuY70I/exec'
 };
