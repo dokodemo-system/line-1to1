@@ -6,6 +6,6 @@
  * 判断したこと: 未設定を確実に検知できるよう、初期値は空文字にしています。
  */
 window.APP_CONFIG = {
-  LIFF_ID: '',
+  LIFF_ID: '2011907772-7JYkqQ63',
   GAS_URL: ''
 };
